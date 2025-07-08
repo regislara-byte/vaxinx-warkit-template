@@ -1,0 +1,8 @@
+# .gitignore
+.env
+unlock.key
+node_modules/
+dist/
+*.log
+*.bak
+.DS_Store
